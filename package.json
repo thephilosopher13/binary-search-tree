@@ -1,0 +1,11 @@
+{
+  "name": "binary-search-tree",
+  "version": "1.0.0",
+  "description": "a sample binary search tree.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thephilosopher13",
+  "license": "ISC"
+}
